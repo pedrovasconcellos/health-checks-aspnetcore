@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Pedro Henrique Vasconcellos</Authors>
+    <Company>Vasconcellos Solutions</Company>
+    <Copyright>Copyright (c) 2020 Pedro Vasconcello</Copyright>
+    <PackageIcon>vasconcellos-solutions.jpg</PackageIcon>
+    <PackageProjectUrl>https://github.com/pedrovasconcellos/health-checks-aspnetcore</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\vasconcellos-solutions.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
