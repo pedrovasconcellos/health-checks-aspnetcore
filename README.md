@@ -1,4 +1,4 @@
-# Health Checks AspNetCore
+# Health Checks Library [AspNetCore]
 Health Checks in ASP.NET Core v3.1
 
 ## EndPoints created by the implementation of Health Checks:
